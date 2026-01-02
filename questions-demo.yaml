@@ -1,0 +1,96 @@
+text_metadata:
+  source: "News article: Tragedy at Swiss ski resort Crans-Montana"
+  word_count: 140
+  difficulty: intermediate
+  date_generated: "2026-01-01"
+  dominant_tenses: ["présent", "passé_composé", "plus-que-parfait"]
+  key_grammar_patterns: ["past participles", "relative pronouns", "adverbial phrases"]
+
+questions:
+  - id: 1
+    type: "vocabulary"
+    grammatical_category: "past_participle"
+    question_text: "What does 'en berne' mean in the phrase 'Des drapeaux en berne'?"
+    french_phrase: "en berne"
+    correct_answer: "at half-mast / lowered"
+    explanation: "This idiomatic expression describes flags lowered as a sign of mourning. 'Berne' here is not related to the city of Berne - it's from the nautical term for lowering flags."
+    difficulty_rating: "medium"
+    user_answer: null
+    is_correct: null
+
+  - id: 2
+    type: "main_idea"
+    grammatical_category: null
+    question_text: "What is the main reason the Swiss president delivered a different message than planned on New Year's Day?"
+    french_phrase: null
+    correct_answer: "A major tragedy/catastrophe occurred at a Swiss ski resort"
+    explanation: "The president had prepared a calm, peaceful New Year's message but instead had to address 'one of the worst tragedies our country has known' - the fire at Crans-Montana."
+    difficulty_rating: "easy"
+    user_answer: null
+    is_correct: null
+
+  - id: 3
+    type: "detail"
+    grammatical_category: "temporal_expression"
+    question_text: "For how many days will flags fly at half-mast on the Federal Palace?"
+    french_phrase: "pendant cinq jours"
+    correct_answer: "five days"
+    explanation: "The text states 'Des drapeaux en berne pendant cinq jours' - flags at half-mast for five days. 'Pendant' indicates duration."
+    difficulty_rating: "easy"
+    user_answer: null
+    is_correct: null
+
+  - id: 4
+    type: "vocabulary"
+    grammatical_category: "adjective"
+    question_text: "What does 'helvétique' mean in 'l'Etat helvétique'?"
+    french_phrase: "helvétique"
+    correct_answer: "Swiss / of Switzerland"
+    explanation: "'Helvétique' is the formal/literary adjective for Swiss, derived from Helvetia (Latin name for Switzerland). More formal than 'suisse'."
+    difficulty_rating: "medium"
+    user_answer: null
+    is_correct: null
+
+  - id: 5
+    type: "detail"
+    grammatical_category: "numbers"
+    question_text: "According to the provisional toll, how many people died in the fire?"
+    french_phrase: "une quarantaine de morts"
+    correct_answer: "around forty / about forty people"
+    explanation: "'Une quarantaine' means 'about forty' - an approximate number. The suffix '-aine' indicates approximation in French numbers."
+    difficulty_rating: "medium"
+    user_answer: null
+    is_correct: null
+
+  - id: 6
+    type: "vocabulary"
+    grammatical_category: "adverbial_phrase"
+    question_text: "What does 'grièvement' mean in 'la plupart grièvement' (referring to the injured)?"
+    french_phrase: "grièvement"
+    correct_answer: "seriously / severely / gravely"
+    explanation: "From 'grief' (serious/grave), 'grièvement' describes serious injuries. Often seen in 'grièvement blessé' (seriously injured)."
+    difficulty_rating: "medium"
+    user_answer: null
+    is_correct: null
+
+  - id: 7
+    type: "inference"
+    grammatical_category: null
+    question_text: "Why does the text describe Crans-Montana as 'ultra-fréquentée à cette période de l'année'?"
+    french_phrase: "ultra-fréquentée à cette période de l'année"
+    correct_answer: "Because it's New Year's/winter season, peak time for the ski resort"
+    explanation: "The tragedy occurred on January 1st at a 'high-end ski resort.' Winter holidays are peak season for Swiss ski resorts, making the loss of life even greater."
+    difficulty_rating: "easy"
+    user_answer: null
+    is_correct: null
+
+  - id: 8
+    type: "vocabulary"
+    grammatical_category: "plus-que-parfait"
+    question_text: "What does 'qu'il avait prévu' mean in the context of the president's message?"
+    french_phrase: "qu'il avait prévu"
+    correct_answer: "that he had planned / that he had prepared"
+    explanation: "Plus-que-parfait (pluperfect) of 'prévoir' - indicates an action completed before another past action. He had planned the message (earlier), but had to change it (on New Year's Day)."
+    difficulty_rating: "hard"
+    user_answer: null
+    is_correct: null

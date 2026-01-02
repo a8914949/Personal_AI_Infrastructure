@@ -1,0 +1,74 @@
+text_metadata:
+  source: "French article about climate change and daily choices"
+  word_count: 298
+  difficulty: intermediate
+  date_generated: "2026-01-01"
+  dominant_tenses: ["présent", "passé_composé", "futur_simple"]
+  key_grammar_patterns: ["subjunctive with il faut que", "conditional mood", "interrogative forms"]
+
+questions:
+  - id: 1
+    type: "vocabulary"
+    grammatical_category: "passé_composé"
+    question_text: "What does 'avons-nous pensé' mean in the context of the first paragraph?"
+    french_phrase: "avons-nous pensé"
+    correct_answer: "did we think / have we thought"
+    explanation: "Passé composé formed with auxiliary avoir + past participle pensé. Inverted question form (avons-nous) asking about past consideration of environmental impact."
+    difficulty_rating: "medium"
+    user_answer: null
+    is_correct: null
+
+  - id: 2
+    type: "main_idea"
+    grammatical_category: null
+    question_text: "What is the author's central argument in this passage?"
+    french_phrase: null
+    correct_answer: "Individual daily choices matter for fighting climate change, and collective action through personal responsibility is essential"
+    explanation: "The text emphasizes both the severity of climate change and the power of individual actions, rejecting the notion that personal efforts are futile. Multiple paragraphs reinforce this dual message."
+    difficulty_rating: "medium"
+    user_answer: null
+    is_correct: null
+
+  - id: 3
+    type: "detail"
+    grammatical_category: "number_expression"
+    question_text: "By how many degrees Celsius has Earth's average temperature increased since the industrial era began?"
+    french_phrase: "plus de 1,2 degrés Celsius"
+    correct_answer: "more than 1.2 degrees Celsius"
+    explanation: "Direct factual information from the second paragraph. 'Plus de' means 'more than.'"
+    difficulty_rating: "easy"
+    user_answer: null
+    is_correct: null
+
+  - id: 4
+    type: "vocabulary"
+    grammatical_category: "subjunctive"
+    question_text: "In the phrase 'Il faut que chacun prenne ses responsabilités,' why is the subjunctive used?"
+    french_phrase: "Il faut que chacun prenne"
+    correct_answer: "The subjunctive (prenne) is required after 'il faut que' which expresses necessity/obligation"
+    explanation: "Classic subjunctive trigger: 'il faut que' (it is necessary that) requires subjunctive mood in the subordinate clause. Prenne is subjunctive form of prendre."
+    difficulty_rating: "hard"
+    user_answer: null
+    is_correct: null
+
+  - id: 5
+    type: "inference"
+    grammatical_category: null
+    question_text: "What does the author imply when stating 'nos choix envoient un message aux entreprises et aux politiciens'?"
+    french_phrase: "nos choix envoient un message"
+    correct_answer: "Consumer behavior influences corporate and political decisions; our purchasing power creates market demand for sustainable alternatives"
+    explanation: "The text argues that individual choices signal demand, suggesting a market-based mechanism for change beyond direct environmental impact. This is an implied consequence, not explicitly stated."
+    difficulty_rating: "medium"
+    user_answer: null
+    is_correct: null
+
+  - id: 6
+    type: "vocabulary"
+    grammatical_category: "conditional"
+    question_text: "What does 'Certains diront' express in terms of tense and attitude?"
+    french_phrase: "Certains diront"
+    correct_answer: "Future tense expressing a hypothetical objection or prediction that some people will say this"
+    explanation: "Futur simple of dire (diront), but used to introduce an anticipated counterargument. Common rhetorical device in French argumentation - addressing objections before refuting them."
+    difficulty_rating: "hard"
+    user_answer: null
+    is_correct: null
